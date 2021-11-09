@@ -2,6 +2,7 @@
 - 👀 I’m interested in Web development and software development in general. 
 - 🌱 I’m currently learning bachelor of computer science 
 - 📫 How to reach me https://www.linkedin.com/in/alaa-ballout
+- ⚛️I'm a reactjs developer
 
 <!---
 alaaballoutdev/alaaballoutdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
