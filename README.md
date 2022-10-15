@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alaaballoutdev
-- 👀 I’m interested in Web development and software development in general. 
+- 👀 I’m interested in Web development and software engineering in general. 
 - 🌱 I’m currently learning bachelor of computer science 
 - 📫 How to reach me https://www.linkedin.com/in/alaa-ballout
 - ⚛️I'm a reactjs developer
